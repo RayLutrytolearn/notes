@@ -19,7 +19,7 @@
     # coding=utf-8
     ``` 
 - python 3+
-- print("hallo, world!")
+- print("hello, world!")
 - 创建py后缀的文件
 - 严格缩进
 - 注释方法
